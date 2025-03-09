@@ -1,0 +1,8 @@
+first_name = input("Enter your First Name: ")
+last_name = input("Enter your Last Name: ")
+
+# Concatenating first name and last name to form full name
+full_name = first_name + " " + last_name
+
+# Printing a personalized greeting message
+print("Hello, " + full_name + "! Welcome to Python programming.")
